@@ -26,7 +26,8 @@ For example, if transporting 1 kg of material costs $100,000, the sale would not
 
 I anticipate that only a small fraction of these waste materials will have significant economic potential for auctioning, based on factors such as novelty, preservation quality, competition from other products, and market conditions.
 
-AI-Driven Market and Production Simulation
+
+**AI-Driven Market and Production Simulation**
 
 The system will be powered by an AI-driven agent simulation (developed in GODOT), featuring specialized large language models (LLMs) trained in:
 •	Physical and physicochemical transformations
