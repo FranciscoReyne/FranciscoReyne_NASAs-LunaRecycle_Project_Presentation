@@ -6,22 +6,33 @@
 ### Phase-1: Project Presentation.
 
 
-<p align="left">
-  
-<img src="4.jpg" width="200"/>
-<img src="3.jpg" width="200"/>
 
-</p>
 
 ### Lunar Waste Valorization System for Economic Resources and Tunnel Excavation
 
+<p align="left">
+  
+<img src="4.jpg" width="300"/>
+
+</p>
+
 In this challenge, my project aims to develop a waste valorization system to generate economic resources and facilitate the excavation of tunnels or habitable, industrial, and work-related structures.
 The system focuses on resource valorization, primarily of organic materials, to produce diamond-based elements.
+
+
+
+
 
 Two Main Focus Areas:
 
 Focus 1: In-Situ Diamond Element Production for Rock Drilling Tools
 This approach involves the generation of diamond-based elements on-site (Moon or Mars) to manufacture rock drilling tools. The process leverages waste and organic, carbon-based materials to fabricate synthetic diamonds that can be integrated into drilling equipment.
+
+<p align="left">
+<img src="3.jpg" width="300"/>
+
+</p>
+
 
 Additionally, considering the excavation needs of extraterrestrial environments, this system also explores the potential application of diamonds for explosive elements in underground (or sub-extraterrestrial) excavation.
 
