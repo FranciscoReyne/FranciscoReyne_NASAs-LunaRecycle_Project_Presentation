@@ -3,6 +3,19 @@
 
 ## This is my (FranciscoReyne) NASAs-LunaRecycle-Phase-1 Project Presentation
 
+
+<p align="left">
+  
+<img src="4.jpg" width="400"/>
+<img src="3.jpg" width="400"/>
+<img src="2.jpg" width="400"/>
+<img src="1.jpg" width="400"/>
+</p>
+
+
+
+
+
 ### Lunar Waste Valorization System for Economic Resources and Tunnel Excavation
 
 In this challenge, my project aims to develop a waste valorization system to generate economic resources and facilitate the excavation of tunnels or habitable, industrial, and work-related structures.
