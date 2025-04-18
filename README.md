@@ -1,15 +1,17 @@
 # NASAs-LunaRecycle_Project
 
 
-## This is my (FranciscoReyne) NASAs-LunaRecycle-Phase-1 Project Presentation
+## FranciscoReyne´s NASA LunaRecycle Challenge:
+
+### Phase-1: Project Presentation.
 
 
 <p align="left">
   
-<img src="4.jpg" width="150"/>
-<img src="3.jpg" width="150"/>
-<img src="2.jpg" width="150"/>
-<img src="1.jpg" width="150"/>
+<img src="4.jpg" width="100"/>
+<img src="3.jpg" width="100"/>
+<img src="2.jpg" width="100"/>
+<img src="1.jpg" width="100"/>
 </p>
 
 
