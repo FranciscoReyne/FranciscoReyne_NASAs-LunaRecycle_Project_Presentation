@@ -36,9 +36,7 @@ This approach involves the generation of diamond-based elements on-site (Moon or
 
 Additionally, considering the excavation needs of extraterrestrial environments, this system also explores the potential application of diamonds for explosive elements in underground (or sub-extraterrestrial) excavation.
 
-<p align="left">
-<img src="2.jpg" width="300"/>
-</p>
+
 
 Focus 2: Waste Utilization for Art and Collectibles
 This approach proposes the transformation and valorization of waste materials with the potential to be converted into diamonds and other collectible items for online sales. The feasibility of this concept is supported by microeconomic supply and demand theory, where highly scarce objects hold significant value in society.
@@ -46,6 +44,10 @@ This approach proposes the transformation and valorization of waste materials wi
 The pricing strategy is designed based on the cost of transporting materials back to Earth. My hypothesis is that the most expensive objects on Earth will be those that originate from beyond it. My motto is:
 
 "Our most expensive objects on Earth are ETs objects."
+
+<p align="left">
+<img src="2.jpg" width="300"/>
+</p>
 
 For example, if transporting 1 kg of material costs $100,000, the sale would not proceed until the auction price exceeds this threshold. This approach not only ensures the reuse of materials but also allows them to generate additional funding for further research.
 
