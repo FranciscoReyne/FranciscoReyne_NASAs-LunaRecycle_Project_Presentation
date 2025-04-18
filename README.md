@@ -8,15 +8,10 @@
 
 <p align="left">
   
-<img src="4.jpg" width="100"/>
-<img src="3.jpg" width="100"/>
-<img src="2.jpg" width="100"/>
-<img src="1.jpg" width="100"/>
+<img src="4.jpg" width="200"/>
+<img src="3.jpg" width="200"/>
+
 </p>
-
-
-
-
 
 ### Lunar Waste Valorization System for Economic Resources and Tunnel Excavation
 
@@ -29,6 +24,10 @@ Focus 1: In-Situ Diamond Element Production for Rock Drilling Tools
 This approach involves the generation of diamond-based elements on-site (Moon or Mars) to manufacture rock drilling tools. The process leverages waste and organic, carbon-based materials to fabricate synthetic diamonds that can be integrated into drilling equipment.
 
 Additionally, considering the excavation needs of extraterrestrial environments, this system also explores the potential application of diamonds for explosive elements in underground (or sub-extraterrestrial) excavation.
+
+<p align="left">
+<img src="2.jpg" width="300"/>
+</p>
 
 Focus 2: Waste Utilization for Art and Collectibles
 This approach proposes the transformation and valorization of waste materials with the potential to be converted into diamonds and other collectible items for online sales. The feasibility of this concept is supported by microeconomic supply and demand theory, where highly scarce objects hold significant value in society.
@@ -49,6 +48,10 @@ The system will be powered by an AI-driven agent simulation (developed in GODOT)
 •	Mathematics and microeconomics
 •	Environmental economics
 •	Game theory and market dynamics
+
+<p align="left">
+<img src="1.jpg" width="300"/>
+</p>
 
 These AI agents will facilitate the centralized generation of innovative ideas and alternatives without additional operational costs. Moreover, they will be capable of rapidly adapting to new real-time conditions, ensuring an agile and efficient decision-making process.
 
